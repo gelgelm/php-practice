@@ -204,15 +204,14 @@ h1{
         //   $h = (bool) $h;
 
           //casting - array
-        //   $a = (array) $a;
-        //   $b = (array) $b;
-        //   $c = (array) $c;
-        //   $d = (array) $d;
-        //   $e = (array) $e;
-        //   $f = (array) $f;
-        //   $g = (array) $g;
-        //   $h = (array) $h;
-        
+          $a = (array) $a;
+          $b = (array) $b;
+          $c = (array) $c;
+          $d = (array) $d;
+          $e = (array) $e;
+          $f = (array) $f;
+          $g = (array) $g;
+          $h = (array) $h;
 
          var_dump($a);
          echo "<br>";
